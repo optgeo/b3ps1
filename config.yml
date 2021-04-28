@@ -2,6 +2,9 @@ title: b3ps1
 style: https://optgeo.github.io/b3p/style.json
 chapters:
   -
+    title: 平成新山
+    hash: 14.13/32.7633/130.3011/-116.8/60
+  -
     title: 佐世保工業高等専門学校
     hash: 17.77/33.149697/129.748356/64.8/62
   -

@@ -1,7 +1,7 @@
 require 'yaml'
 require 'json'
 
-YAML_PATH = 'config.yaml'
+YAML_PATH = 'config.yml'
 JS_PATH = 'docs/config.js'
 HTML_URL = 'https://optgeo.github.io/tokyo-story/index.html'
 HTML_PATH = 'docs/index.html'
